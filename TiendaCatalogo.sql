@@ -59,3 +59,6 @@ insert into productos(id_productos, nombre, precio, descripcion, id_categorias,i
 insert into productos(id_productos, nombre, precio, descripcion, id_categorias,imagen,marca) values(100,'playera3',299.90,'Tamaño 5 piel',3,'Images/playera3.jpg','adidas');
 ------inserta otro producto----
 insert into productos(id_productos, nombre, precio, descripcion, id_categorias,imagen,marca) values(200,'playera1',199.90,' piel',3,'Images/playera1.jpg','adidas');
+---inserta  producto  29/06/15--
+insert into productos(id_productos, nombre, precio, descripcion, id_categorias,imagen,marca) values(101,'playera22',399.90,'Tamaño 4 piel',3,'Images/playera2.png','nike');
+insert into productos(id_productos, nombre, precio, descripcion, id_categorias,imagen,marca) values(102,'playera33',299.90,'Tamaño 5 piel',3,'Images/playera3.jpg','adidas');
